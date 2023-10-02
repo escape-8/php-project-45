@@ -1,0 +1,20 @@
+{
+    "name": "hexlet/code",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mikhail Tsepelev",
+            "email": "cplvmhl@gmail.com"
+        }
+    ],
+    "description": "brain-games",
+    "license": "MIT",
+    "require": {},
+    "bin": [
+        "bin/brain-games"
+    ]
+}
