@@ -10,3 +10,6 @@
 
 #### Demonstation brain-gcd
 [How to use video](https://asciinema.org/a/saQYvT5b742sikpnjB0DA5Frx)
+
+#### Demonstration brain-progression
+[How to use video](https://asciinema.org/a/1FIFJjlWexcCaXPG7krUbjETo)
