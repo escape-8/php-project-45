@@ -8,7 +8,7 @@
 #### Demonstration brain-calc
 [How to use video](https://asciinema.org/a/L6yiF5Nb4se4Q8ous357LpFkO)
 
-#### Demonstation brain-gcd
+#### Demonstration brain-gcd
 [How to use video](https://asciinema.org/a/saQYvT5b742sikpnjB0DA5Frx)
 
 #### Demonstration brain-progression
