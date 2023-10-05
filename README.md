@@ -4,3 +4,6 @@
 
 #### Demonstration brain-even
 [How to use video](https://asciinema.org/a/nE3kQ2C3FyNnzLpZcHIYGYrLj)
+
+#### Demonstration brain-calc
+[How to use video](https://asciinema.org/a/L6yiF5Nb4se4Q8ous357LpFkO)
