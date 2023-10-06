@@ -21,7 +21,7 @@ function generateQuestionsAndAnswers(int $countQuestion): array
     return [$questions, $answers];
 }
 
-function createProgression($length): array
+function createProgression(int $length): array
 {
     $startProgression = random_int(0, 50);
     $stepProgression = random_int(1, 10);

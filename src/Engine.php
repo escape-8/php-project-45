@@ -13,18 +13,18 @@ function getName(): string
     return $playerName;
 }
 
-function setCondition(string $condition)
+function setCondition(string $condition): void
 {
     line($condition);
 }
 
-function askQuestion($question)
+function askQuestion(string $question): void
 {
     line("Question: $question");
 }
 
 
-function game(string $playerName, string $condition, array $questionAndAnswers)
+function game(string $playerName, string $condition, array $questionAndAnswers): void
 {
     $round = 0;
     setCondition($condition);
