@@ -1,0 +1,14 @@
+#! /usr/bin/env php
+
+<?php
+
+require_once __DIR__ . '/../vendor/autoload.php';
+
+use BrianGames\Calc;
+use BrainGames\Engine;
+
+$playerName = Engine\getName();
+$condition = Calc\setCondition();
+$questionsAndAnswers = Calc\generateQuestionsAndAnswers(3);
+
+Engine\game($playerName, $condition, $questionsAndAnswers);

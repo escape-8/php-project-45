@@ -1,0 +1,14 @@
+#! /usr/bin/env php
+
+<?php
+
+require_once __DIR__ . '/../vendor/autoload.php';
+
+use BrainGames\Prime;
+use BrainGames\Engine;
+
+$playerName = Engine\getName();
+$condition = Prime\setCondition();
+$questionsAndAnswers = Prime\generateQuestionsAndAnswers(3);
+
+Engine\game($playerName, $condition, $questionsAndAnswers);

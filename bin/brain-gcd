@@ -1,0 +1,14 @@
+#! /usr/bin/env php
+
+<?php
+
+require_once __DIR__ . '/../vendor/autoload.php';
+
+use BrainGames\BrainGcd;
+use BrainGames\Engine;
+
+$playerName = Engine\getName();
+$condition = BrainGcd\setCondition();
+$questionsAndAnswers = BrainGcd\generateQuestionsAndAnswers(3);
+
+Engine\game($playerName, $condition, $questionsAndAnswers);
