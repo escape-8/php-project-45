@@ -13,3 +13,6 @@
 
 #### Demonstration brain-progression
 [How to use video](https://asciinema.org/a/1FIFJjlWexcCaXPG7krUbjETo)
+
+#### Demonstration brain-prime
+[How to use video](https://asciinema.org/a/VhMbWTq1asK3jKvyuvQ061YWy)
